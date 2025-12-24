@@ -1,0 +1,42 @@
+# robots.txt for Christmas Parade Guide
+# Last updated: 2025-12-24
+
+# Allow all search engines
+User-agent: *
+Allow: /
+
+# Disallow admin or private areas (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Crawl-delay (optional, only if needed)
+# Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Additional sitemaps (if you create them)
+# Sitemap: https://yourdomain.com/sitemap-images.xml
+# Sitemap: https://yourdomain.com/sitemap-news.xml
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /

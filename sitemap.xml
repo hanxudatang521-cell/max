@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Homepage / Christmas Parade Guide -->
+    <url>
+        <loc>https://yourdomain.com/christmas-parade-guide.html</loc>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://yourdomain.com/images/christmas-parade-og.jpg</image:loc>
+            <image:title>Ultimate Christmas Parade Guide 2025</image:title>
+            <image:caption>America's best Christmas parades including Macy's Thanksgiving Parade and Disney Christmas celebrations</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Individual Parade Pages (if you create them in the future) -->
+
+    <!-- Macy's Thanksgiving Day Parade -->
+    <url>
+        <loc>https://yourdomain.com/macys-thanksgiving-parade.html</loc>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Disney Christmas Parade -->
+    <url>
+        <loc>https://yourdomain.com/disney-christmas-parade.html</loc>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Chicago Magnificent Mile Lights Festival -->
+    <url>
+        <loc>https://yourdomain.com/chicago-lights-festival.html</loc>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Hollywood Christmas Parade -->
+    <url>
+        <loc>https://yourdomain.com/hollywood-christmas-parade.html</loc>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Planning Guide -->
+    <url>
+        <loc>https://yourdomain.com/planning-guide.html</loc>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Travel Tips -->
+    <url>
+        <loc>https://yourdomain.com/travel-tips.html</loc>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Photography Tips -->
+    <url>
+        <loc>https://yourdomain.com/photography-tips.html</loc>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- FAQ -->
+    <url>
+        <loc>https://yourdomain.com/faq.html</loc>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- About Us -->
+    <url>
+        <loc>https://yourdomain.com/about.html</loc>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Contact -->
+    <url>
+        <loc>https://yourdomain.com/contact.html</loc>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Privacy Policy -->
+    <url>
+        <loc>https://yourdomain.com/privacy-policy.html</loc>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <!-- Terms of Service -->
+    <url>
+        <loc>https://yourdomain.com/terms-of-service.html</loc>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+</urlset>
